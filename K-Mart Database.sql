@@ -1,4 +1,4 @@
-﻿--INF202/Group 3
+
 
 CREATE DATABASE K_Mart;
 
